@@ -1,0 +1,20 @@
+{
+  "short_name": "StudioApp",
+  "name": "Creator Studio",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f0f12",
+  "theme_color": "#a855f7",
+  "display": "standalone"
+}
